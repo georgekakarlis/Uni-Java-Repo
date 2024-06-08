@@ -1,4 +1,4 @@
-package dev.geok;
+package dev.geok.lessons;
 
 import java.util.Calendar;
 

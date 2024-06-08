@@ -1,3 +1,5 @@
+package dev.geok.lessons;
+
 import java.util.Stack;
 public class Stacks{
 
